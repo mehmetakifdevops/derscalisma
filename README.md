@@ -1,0 +1,2 @@
+# derscalisma
+ders içi çalışmalar
